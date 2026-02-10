@@ -37,7 +37,7 @@ Previously, at the Directorate of Mine Action Coordination (DMAC), I developed d
 <p>
   This is the sql project where I have analysed the world database which include three tables linked together.
   click on the link below to see further details and the code
-  <a href="">see more</a>
+  <a href="https://github.com/zakPardis01/myOwnrepository">see more</a>
 </p>
 
 ### Badges
