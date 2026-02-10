@@ -31,6 +31,15 @@ Previously, at the Directorate of Mine Action Coordination (DMAC), I developed d
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/https://github.com/zakPardis01/data_test" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="www.linkedin.com/in/zak-pardis-zak01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+# Project Completed
+### SQL Project
+<p>
+  This is the sql project where I have analysed the world database which include three tables linked together.
+  click on the link below to see further details and the code
+  <a href="">see more</a>
+</p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
